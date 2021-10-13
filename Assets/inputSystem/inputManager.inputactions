@@ -12,14 +12,6 @@
                     "expectedControlType": "Vector2",
                     "processors": "",
                     "interactions": ""
-                },
-                {
-                    "name": "Camera",
-                    "type": "Value",
-                    "id": "f79868b3-a179-4f92-b5a9-d6a32630b760",
-                    "expectedControlType": "Axis",
-                    "processors": "",
-                    "interactions": ""
                 }
             ],
             "bindings": [
